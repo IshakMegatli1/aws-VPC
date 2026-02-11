@@ -2,36 +2,25 @@
 
 # Build a Virtual Private Cloud
 
-**Project Link:** [View Project](http://learn.nextwork.org/projects/aws-networks-vpc)
-
-**Author:** ElHalouf  
+**Author:** Ishak Megatli
 **Email:** shakyleboss@gmail.com
 
----
 
 ## Build a Virtual Private Cloud (VPC)
 
 ![Image](http://learn.nextwork.org/lively_blue_beautiful_jellyfish/uploads/aws-networks-vpc_2facf927)
 
----
 
 ## Introducing Today's Project!
 
 In this project, I will create a Virtual Private Cloud with subnets and an internet gateway.
 
-### What is Amazon VPC?
 
-...
-
-...
 
 ### Personal reflection
 
 This project took me 1h30
 
-...
-
----
 
 ## Virtual Private Clouds (VPCs)
 
